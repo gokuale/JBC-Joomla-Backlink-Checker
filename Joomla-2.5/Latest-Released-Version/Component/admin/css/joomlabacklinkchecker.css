@@ -1,0 +1,67 @@
+/**
+ * @Copyright
+ * @package         JBC - Joomla Backlink Checker
+ * @author          Viktor Vogel {@link http://www.kubik-rubik.de}
+ * @link            http://joomla-extensions.kubik-rubik.de/jbc-joomla-backlink-checker Project page
+ *
+ * @license         http://www.gnu.org/licenses/gpl.html GNU/GPL, see gpl_v3.txt
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+.icon-48-joomlabacklinkchecker {
+    background-image: url(../images/icon-48-joomlabacklinkchecker.png);
+}
+
+.icon-48-joomlabacklinkchecker-add {
+    background-image: url(../images/icon-48-joomlabacklinkchecker-add.png);
+}
+
+.icon-48-joomlabacklinkchecker-edit {
+    background-image: url(../images/icon-48-joomlabacklinkchecker-edit.png);
+}
+
+.icon-32-check-complete {
+    background-image: url("../images/icon-32-check.png");
+}
+
+.icon-32-check-selection {
+    background-image: url("../images/icon-32-check.png");
+}
+
+label {
+    width: 25em;
+}
+
+fieldset ul.adminformlist {
+    display: table;
+}
+
+fieldset.adminform textarea {
+    width: 410px !important;
+}
+
+fieldset.adminform label {
+    width: 100% !important;
+    margin-top: 10px;
+}
+
+.overwrite_notice {
+    background-color: #FCFA76;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+table.center td {
+    text-align: center;
+}
